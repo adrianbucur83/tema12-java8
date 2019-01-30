@@ -14,7 +14,6 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
-
         choosePeopleByMonth("./resources/namesDB", "04", "./resources/out");
 
     }
